@@ -1,0 +1,20 @@
+[
+  {
+    "q": "Analyze tarjimasi?",
+    "a": "A",
+    "o": ["A) Tahlil qilmoq", "B) Yashirmoq", "C) Buzmoq", "D) Kutmoq"],
+    "premium": false
+  },
+  {
+    "q": "Approach tarjimasi?",
+    "a": "B",
+    "o": ["A) Muammo", "B) Yondashuv", "C) Natija", "D) Xarajat"],
+    "premium": false
+  },
+  {
+    "q": "Ambiguous tarjimasi?",
+    "a": "C",
+    "o": ["A) Oddiy", "B) Aniq", "C) Noaniq", "D) Kuchli"],
+    "premium": true
+  }
+]
